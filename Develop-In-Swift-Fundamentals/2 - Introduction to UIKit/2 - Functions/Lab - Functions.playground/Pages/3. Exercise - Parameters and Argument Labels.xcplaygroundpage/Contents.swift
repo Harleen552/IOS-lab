@@ -6,7 +6,7 @@
 func introduction(name:String,home:String,age:Int){
     print("\(name), \(age) is from \(home)");
 }
-introduction(name: "Aditya", home: "Haryana", age: 20)
+introduction(name: "Harleen", home: "Haryana", age: 20)
 
 //:  Write a function called `almostAddition` that takes two `Int` arguments. The first argument should not require an argument label. The function should add the two arguments together, subtract 2, then print the result. Call the function and observe the printout.
 func almostAddition(_ num1:Int,to num2:Int){
