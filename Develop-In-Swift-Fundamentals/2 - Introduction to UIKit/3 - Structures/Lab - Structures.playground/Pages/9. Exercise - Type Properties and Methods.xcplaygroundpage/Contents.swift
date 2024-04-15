@@ -21,7 +21,7 @@ struct User {
     }
 }
 
-var userOne  = User(userName: "Aditya", email: "Aditya@gmail.com", age: 20);
+var userOne  = User(userName: "Harleen", email: "harleen@gmail.com", age: 20);
 User.currentUser = userOne;
 print(User.currentUser);
 

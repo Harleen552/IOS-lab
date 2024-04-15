@@ -6,7 +6,7 @@
 func greeting(name:String){
     print("Hi, \(name) How are you?");
 }
-greeting(name: "Aditya");
+greeting(name: "Harleen");
 //:  Write a function that takes two `Int` arguments, and returns an `Int`. The function should multiply the two arguments, add 2, then return the result. Use the function and print the result.
 func almostAddition(_ num1:Int,to num2:Int) -> Int{
     return ((num1 + num2) + 2);

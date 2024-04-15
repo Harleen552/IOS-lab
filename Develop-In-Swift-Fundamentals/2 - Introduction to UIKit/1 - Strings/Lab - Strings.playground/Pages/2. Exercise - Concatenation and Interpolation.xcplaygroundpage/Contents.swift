@@ -19,7 +19,7 @@ print(introduction)
  
  Insert `name` where indicated, and insert a mathematical expression that evaluates to your current age plus one where indicated.
  */
-let name = "Aditya"
+let name = "Harleen"
 let age = 20;
 print("My name is \(name) and after my next birhtday I will be \(age) years old");
 

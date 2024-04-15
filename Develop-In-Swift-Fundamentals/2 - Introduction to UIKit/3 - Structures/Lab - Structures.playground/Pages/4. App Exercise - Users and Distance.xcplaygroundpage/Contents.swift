@@ -13,7 +13,7 @@ struct User{
     var activityLevel : Int;
 }
 //:  Create a variable instance of `User` and call it your name. Use the memberwise initializer to pass in information about yourself. Then print out a description of your `User` instance using the instance's properties.
-var Aditya = User(name: "Aditya", age: 20, height: 167, weight: 70, activityLevel: 5)
+var Aditya = User(name: "Harleen", age: 20, height: 167, weight: 70, activityLevel: 5)
 print(Aditya)
 
 /*:

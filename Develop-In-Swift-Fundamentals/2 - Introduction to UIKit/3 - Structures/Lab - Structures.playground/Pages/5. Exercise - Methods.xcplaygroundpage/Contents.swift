@@ -14,7 +14,7 @@ struct Book {
     }
 }
 
-var firstBook = Book(title: "Book1", author: "Aditya", pages: 120, price: 59);
+var firstBook = Book(title: "Book1", author: "Harleen", pages: 120, price: 59);
 firstBook.description();
 
 

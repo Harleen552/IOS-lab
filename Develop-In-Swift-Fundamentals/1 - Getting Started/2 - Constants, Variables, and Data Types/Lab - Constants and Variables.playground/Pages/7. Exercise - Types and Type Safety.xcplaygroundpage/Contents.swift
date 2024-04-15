@@ -13,7 +13,7 @@ print("can't assing bool to double")
 
 
 //:  Declare a variable and give it a string value. Then try to assign it to `firstDecimal`. Does it compile? Print a statement to the console explaining why not, and remove the line of code that will not compile.
-var str = "Aditya"
+var str = "Harleen"
 //firstDecimal = str
 print("can't assing string to double")
 
