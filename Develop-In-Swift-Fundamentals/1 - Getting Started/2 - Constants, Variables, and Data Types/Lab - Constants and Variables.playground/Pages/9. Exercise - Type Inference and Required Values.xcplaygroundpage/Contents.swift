@@ -7,7 +7,7 @@ var name:String;
 //print(name)
 
 //:  Now assign a value to `name`, and print it to the console.
- name = "Aditya"
+ name = "Harleen"
 print(name)
 
 //:  Declare a variable called `distanceTraveled` and set it to 0. Do not give it an explicit type.
