@@ -7,8 +7,8 @@
  
  Create `firstName` and `lastName` constants and assign them string literals representing a user's first name and last name, respectively. Create a `fullName` constant that uses string concatenation to combine `firstName` and `lastName`. Print the value of `fullName`.
  */
-let firstName = "Aditya";
-let lastName = "Gaba"
+let firstName = "Harleen";
+let lastName = "Kaur"
 let fullName = (firstName + " " + lastName)
 
 /*:
